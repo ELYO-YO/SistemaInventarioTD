@@ -1,0 +1,3 @@
+# El proyecto utiliza unittest y unittest.mock, incluidos en Python.
+# pytest es opcional para ejecutar las pruebas con una salida alternativa.
+pytest>=8.0
